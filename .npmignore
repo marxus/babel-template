@@ -1,0 +1,14 @@
+*.log
+.idea
+.vscode
+@babel
+node_modules
+src
+test
+.babelrc.js
+.eslintrc.js
+.gitignore
+.mocharc.js
+.npmrc
+pnpm-lock.yaml
+tsconfig.json
